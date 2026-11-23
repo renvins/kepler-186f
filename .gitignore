@@ -1,0 +1,13 @@
+# Slide del corso (materiale della prof, non va pubblicato)
+materiale/
+
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Java
+*.class
